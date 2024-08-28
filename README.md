@@ -12,7 +12,7 @@
 
 <div align="center">
     <br>
-     <img src="https://github.com/user-attachments/assets/e3607213-5a3c-4e1e-816b-9bbce3dd83ca"  alt="Bad3r's GitHub qr code">
+    <img src="https://github.com/user-attachments/assets/e3607213-5a3c-4e1e-816b-9bbce3dd83ca" alt="Bad3r's GitHub qr code" width="450">
     <br>
 </div>
 
