@@ -1,17 +1,7 @@
-<div align="center">
-  <a href="https://github.com/bad3r">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bad3r&theme=github_dark_dimmed&show_icons=true&hide_border=false&card_width=720&card_height=360" alt="Bad3r's GitHub stats 📊">
-  </a>
-</div>
+### Hi there 👋
 
-<div align="center">
-  <a href="https://gist.github.com/Bad3r">
-    <img src="https://streak-stats.demolab.com/?user=bad3r&theme=github_dark_dimmed&show_icons=true&card_width=720" alt="Bad3r's GitHub stats 📊">
-  </a>
-</div>
+![Bad3r's GitHub stats](./profile/stats-dark.svg#gh-dark-mode-only)![Bad3r's GitHub stats](./profile/stats-light.svg#gh-light-mode-only)
 
-<div align="center">
-    <br>
-    🌐 <a href="https://unsigned.sh">Unsigned.sh</a>
-    <br>
-</div>
+![Bad3r's Top Languages](./profile/top-langs-dark.svg#gh-dark-mode-only)![Bad3r's Top Languages](./profile/top-langs-light.svg#gh-light-mode-only)
+
+![Bad3r's GitHub Streak](./profile/streak-dark.svg#gh-dark-mode-only)![Bad3r's GitHub Streak](./profile/streak-light.svg#gh-light-mode-only)
