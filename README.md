@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello friend,
 
 <p align="center">
   <img src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Bad3r's GitHub stats">
