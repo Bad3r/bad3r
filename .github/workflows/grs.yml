@@ -8,6 +8,7 @@ on:
 env:
   DARK_THEME: github_dark_dimmed
   LIGHT_THEME: default
+  HIDDEN_LANGUAGES: HTML,CSS,XSLT,Perl,Vim%20Script,Scheme,Roff,CMake,Vue,Astro
 
 jobs:
   build:
@@ -39,7 +40,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=${{ env.DARK_THEME }}&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&theme=${{ env.DARK_THEME }}&langs_count=6&hide=${{ env.HIDDEN_LANGUAGES }}
           path: profile/top-langs-dark.svg
           core_version: 2.1.2
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -48,7 +49,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=${{ env.LIGHT_THEME }}&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&theme=${{ env.LIGHT_THEME }}&langs_count=6&hide=${{ env.HIDDEN_LANGUAGES }}
           path: profile/top-langs-light.svg
           core_version: 2.1.2
           token: ${{ secrets.GITHUB_TOKEN }}
